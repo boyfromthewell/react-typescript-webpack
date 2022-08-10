@@ -1,0 +1,23 @@
+/*!****************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/components/Hello.css ***!
+  \****************************************************************************/
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.title {
+  font-size: 50px;
+  font-weight: bold;
+  color: skyblue;
+}
+
+/*!*****************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/index.css ***!
+  \*****************************************************************/
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
